@@ -1,5 +1,5 @@
 # flight-delay-forecasting
-Model that attempts to forecast flight delays based on historical data.
+Attemps to classify flights as delayed or on-time based on historical data.
 
 ## flight_delay_eda_model_testing.ipynb
 Contains exploratory data analysis and model testing on PDX flight delays from 2021-2025.
